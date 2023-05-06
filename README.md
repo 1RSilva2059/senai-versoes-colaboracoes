@@ -2,3 +2,5 @@
 
 
 teste
+
+lembrei de comando: git status
